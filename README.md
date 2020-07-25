@@ -13,3 +13,6 @@ Builds the app for production to the `build` folder.<br />
 
 ## User interface
 ![task-manager](https://github.com/luucasmorato/calculator-reactjs/blob/master/public/front.png)
+
+## Operation
+Contains the features of a traditional calculator
